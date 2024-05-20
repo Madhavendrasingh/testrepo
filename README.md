@@ -1,2 +1,4 @@
 # testrepo
-playing around 
+Playing around 
+
+This is the test repo for the IBM course.
